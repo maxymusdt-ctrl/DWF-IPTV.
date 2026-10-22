@@ -1,0 +1,149 @@
+#EXTM3U
+# DWF IPTV Starter - osobna besplatna probna lista - 22.10.2026
+# Izvori: javno oglaseni streamovi iptv-org i free public IPTV.
+# Pojedini streamovi mogu biti geo-blokirani ili prestati raditi.
+# ADULTS 18+: namjerno bez kanala dok se ne potvrde dozvoljeni direktni streamovi.
+
+#EXTINF:-1 tvg-id="CMCTV.hr@SD" group-title="HRVATSKA",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr@SD" group-title="HRVATSKA",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD" group-title="HRVATSKA",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTV.hr@SD" group-title="HRVATSKA",OTV Zagreb
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+
+#EXTINF:-1 tvg-id="ShiftTV.hr@SD" group-title="HRVATSKA",Shift TV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTV.hr@SD" group-title="HRVATSKA",SBTV
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TVJadran.hr@SD" group-title="HRVATSKA",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.hr@SD" group-title="HRVATSKA",TV Nova Pula
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr@SD" group-title="HRVATSKA",Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" group-title="BOSNA I HERCEGOVINA",RTRS TV
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" group-title="BOSNA I HERCEGOVINA",RTRS Plus
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" group-title="BOSNA I HERCEGOVINA",RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" group-title="BOSNA I HERCEGOVINA",Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Kanal6.ba@SD" group-title="BOSNA I HERCEGOVINA",Kanal 6
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+
+#EXTINF:-1 tvg-id="TNTKidsTV.ba@SD" group-title="BOSNA I HERCEGOVINA",TNT Kids
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" group-title="SRBIJA",Narodna TV
+https://edge8.pink.rs/narodnatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Pink.rs@SD" group-title="SRBIJA",Pink
+https://edge8.pink.rs/pinktv/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" group-title="SRBIJA",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" group-title="SRBIJA",RTV Bap
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" group-title="SRBIJA",TV Pi Kanal
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" group-title="SRBIJA",Radio Lola TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" group-title="SRBIJA",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="NJEMACKA",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de@SD" group-title="NJEMACKA",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de@SD" group-title="NJEMACKA",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-id="arte.de@SD" group-title="NJEMACKA",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud" group-title="NJEMACKA",BR Fernsehen Sued
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="BRFernsehen.de@Nord" group-title="NJEMACKA",BR Fernsehen Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" group-title="NJEMACKA",ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo.de@SD" group-title="NJEMACKA",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFinfo.de@SD" group-title="NJEMACKA",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de@HD" group-title="NJEMACKA",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD" group-title="NJEMACKA",ALEX Berlin
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" group-title="NJEMACKA",Welt der Wunder TV
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" group-title="SPORT",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORT",FIFA+ English
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORT",FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="SPORT",Motorsport.tv
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD" group-title="FILMOVI I SERIJE - TV",Anixe HD Serie
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1 tvg-id="AnixePlus.de@SD" group-title="FILMOVI I SERIJE - TV",Anixe Plus
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+
+#EXTINF:-1 tvg-id="AristoTV.de@SD" group-title="FILMOVI I SERIJE - TV",Aristo TV
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" group-title="GLAZBA",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD" group-title="GLAZBA",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de@SD" group-title="GLAZBA",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" group-title="GLAZBA",Folx Music
+https://folxapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" group-title="GLAZBA",Zwei Music Television
+https://zweiapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" group-title="VIJESTI",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" group-title="VIJESTI",Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
